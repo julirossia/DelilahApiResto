@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e9f3ce3f58d9d2c80ac4620"},"email":"usuario@mail.com","password":"$2b$10$/jD66touK3nSciPDM8gNGOa1Yk1iPfJBcxahZWiXgJKKRWTpqnHDC","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9fc7afbc141532401b874e"},"role":"admin","email":"ana@mail.com","password":"$2b$10$y6XWq4BKu59jccmifsFg3uZrI4UssCyIIzVMcub8uDmNdOKEyU0jm","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1c4fe6e6ddc42dc28efc0"},"role":"user","fullname":"User","adress":"home","email":"user@mail.com","password":"$2b$10$BIcK0N5Jf.NIhbjY1.E9JO7LgHbIncVCOS.OlJhpNy0QNmrqmme9y","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1c53e6e6ddc42dc28efc1"},"role":"admin","fullname":"Admin","adress":"home","email":"admin@mail.com","password":"$2b$10$IU8agvhj.vNEK4w/bX2rReOsuglzNQp/Fd6A0aLjCO8zmcb9CjBzS","__v":{"$numberInt":"0"}}

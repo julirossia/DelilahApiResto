@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ea0812561748c27fca28d7c"},"quantity":{"$numberInt":"2"},"subtotal":{"$numberInt":"1"},"product":{"$oid":"5e9ebc5d3d2611333413f515"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea0a772c486271878d5e337"},"quantity":{"$numberInt":"2"},"subtotal":{"$numberInt":"1"},"product":{"$oid":"5e9ebc5d3d2611333413f515"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea0ab24c486271878d5e339"},"quantity":{"$numberInt":"6"},"subtotal":{"$numberInt":"1"},"product":{"$oid":"5e9ebc5d3d2611333413f515"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1e1c10db21743704cba25"},"Status":"sended","user":{"$oid":"5ea1c4fe6e6ddc42dc28efc0"},"Items":[{"quantity":{"$numberInt":"2"},"_id":{"$oid":"5ea1e1c10db21743704cba26"},"product":{"$oid":"5e9ebc5d3d2611333413f515"}},{"quantity":{"$numberInt":"3"},"_id":{"$oid":"5ea1e1c10db21743704cba27"},"product":{"$oid":"5e9ebd0c3d2611333413f517"}}],"paymentMethod":"card","date":{"$date":{"$numberLong":"1587667393983"}},"__v":{"$numberInt":"0"}}
